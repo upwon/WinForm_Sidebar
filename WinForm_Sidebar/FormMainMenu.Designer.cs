@@ -211,7 +211,7 @@
             this.iconCurrentChildForm.IconChar = FontAwesome.Sharp.IconChar.Home;
             this.iconCurrentChildForm.IconColor = System.Drawing.Color.White;
             this.iconCurrentChildForm.IconSize = 43;
-            this.iconCurrentChildForm.Location = new System.Drawing.Point(21, 12);
+            this.iconCurrentChildForm.Location = new System.Drawing.Point(22, 12);
             this.iconCurrentChildForm.Name = "iconCurrentChildForm";
             this.iconCurrentChildForm.Size = new System.Drawing.Size(43, 51);
             this.iconCurrentChildForm.TabIndex = 0;
